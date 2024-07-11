@@ -1,0 +1,4 @@
+patron.comportamiento.observer.NotificationSystem
+patron.comportamiento.observer.Subject
+patron.comportamiento.observer.User
+patron.comportamiento.observer.Observer
